@@ -34,4 +34,4 @@ cd todo-app
 ## the demo  🖥️
 https://todo-p43q27pqk-reemelfadilhassanins-projects.vercel.app/
 
-![the demo](todo-app/src/assets/todo.png)
+![the demo](assets/images/todo.png)
