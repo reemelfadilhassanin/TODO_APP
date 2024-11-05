@@ -1,9 +1,7 @@
 
 # Todo List App (MERN Stack) 📝
 
-This is a **simple Todo List application** built using the **MERN Stack** (MongoDB, Express.js, React, Node.js). It allows users to **add tasks**, **mark them as done** (with a line-through effect), and **delete tasks** from the list.
-
-![Todo App Animation](https://media.giphy.com/media/dwPbTSj7cbmYy/giphy.gif)
+This is a **simple Todo List application** built using the **MERN Stack** (MongoDB, Express.js, React, Node.js). It allows users to **add tasks**, **mark them as done** (with a line-through effect), and **delete tasks** from the list
 
 ## Features ✨:
 - **Add Task**: Allows the user to add a new task to the list.
